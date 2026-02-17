@@ -74,6 +74,3 @@ Ce projet illustre :
 - Optimisation robuste
 ---
 
-## Auteur
-
-Projet personnel – Optimisation quantitative et théorie moderne du portefeuille.
